@@ -1,7 +1,8 @@
 # Vehicle-Registraetion-Activity
 
 :triangular_flag_on_post:**Aim of the project :-**  *Data Analysis And Visualization And Creating Dashboard.*
-**Steps :-**
+
+-**Steps :-**
 - Import Data
 - Remove Duplicates and unwanted columns
 - handle Missing Data (Null Values)

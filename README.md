@@ -13,8 +13,8 @@
 :earth_asia:**dataset :-** https://data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd/data_preview
 
 :mushroom:**Tool :-**  
-*Jupyter Notebook* 
-*Power BI*
+- Jupyter Notebook
+- Power BI
 
 :books:**Libraries :-** 
 - Pandas

@@ -1,8 +1,12 @@
 # Vehicle-Registraetion-Activity
 
-:triangular_flag_on_post:**Aim of the project :-**  *Data Analysis And Visualization And Creating Dashboard.*
+:triangular_flag_on_post:**Aim of the project :-**  ***Data Analysis And Visualization And Creating Dashboard.***
 
--**Steps :-**
+![Screenshot 2024-04-07 205730](https://github.com/Nehakoli23/Vehicle-Registraetion-Activity/assets/155455317/819cac24-785b-495b-a234-e1aaa791feca)
+
+
+
+**Steps :-**
 - Import Data
 - Remove Duplicates and unwanted columns
 - handle Missing Data (Null Values)

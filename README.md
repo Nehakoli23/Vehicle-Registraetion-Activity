@@ -20,6 +20,7 @@
 :mushroom:**Tool :-**  
 - Jupyter Notebook
 - Power BI
+- MySQL
 
 :books:**Libraries :-** 
 - Pandas
